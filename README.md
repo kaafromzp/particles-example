@@ -4,7 +4,7 @@ An example of shaders made on three.js - using particles and custom postprocessi
 
 ### Live demo
 
-Live preview: https://particles-sphere.herokuapp.com/
+Live preview: https://particles-example.netlify.app/
 
 ### Tech
 - [Three.JS] - Javascript 3D Framework
